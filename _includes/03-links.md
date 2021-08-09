@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+* [Github](https://github.com/recursively-enumerable)
+* [Twitter](https://twitter.com/beaconbodies)
+* [Instagram](https://instagram.com/beacon.bodies)
